@@ -17,3 +17,24 @@ h1 {
     padding: 25px;
     text-decoration: underline;
 }
+
+/* introduction heading design */
+h2 {
+    margin: 0px;
+    text-decoration: underline;
+}
+
+/* benefits heading design */
+h3 {
+    text-decoration: underline;
+}
+
+/* modify form */
+.form {
+    padding: 20px;
+    font-size: 20px;
+    margin-left: 290px;
+    margin-right: 670px;
+    color: rgba(17, 0, 255, 0.267);
+    background-color: rgb(72, 253, 214);
+}

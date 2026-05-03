@@ -1,8 +1,8 @@
-Akan Name Generator
+**Akan Name Generator**
 
 The Akan Name Generator is a simple website that calculates and displays a user's Akan name based on their date of birth and gender.This tradition comes from ghana where children are named according to the day of the weeek they were born.
 
-Author
+**Author**
 
 cyprian mbau
 
@@ -10,14 +10,16 @@ cyprian mbau
 
 -Email:mbaucyprian@gmail.com
 
-Set-up-instructions
+**Set-up-instructions**
 
-To set-up this websie you need to : 1.clone the repository
+To set-up this websie you need to : 
+                               
+                               1.clone the repository
 
                                2.open the folder
                               
                                3.launch index.html in your browser
-How it works
+**How it works**
 
 User enters their birthdate.
 
@@ -29,17 +31,18 @@ The day is matched with exact akan name.
 
 Results are displayed.
 
-Technologies used
+**Technologies used**
 
-This website is made using three main technologies: .HTML-builds the basic structure of the pages
+This website is made using three main technologies:
+
+                                                .HTML-builds the basic structure of the pages
 
                                                 .CSS-styles the pages
                                                 
                                                 .Javascript-manipulates data entered
-Contact information
-
+**Contact information**
 You can contact through the number 0701000344, 0110205066 or through my email_ cyprian@gmail.com_
 
-LICENSE
+**LICENSE**
 
 This project is available under the MIT license. copyright@2026_____

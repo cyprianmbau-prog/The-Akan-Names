@@ -42,3 +42,18 @@
         background-color: rgb(72, 253, 214);
     }
 }
+
+@media screen and (min-width: 20px) {
+    body {
+        font-size: 2opx;
+        background-color: rgb(9, 230, 156);
+    }
+
+    h1 {
+        background-color: aqua;
+    }
+
+    .form {
+        background-color: rgb(146, 254, 218);
+    }
+}
